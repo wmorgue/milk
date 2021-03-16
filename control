@@ -1,0 +1,9 @@
+Package: com.vrm0rgu3.milk
+Name: milk
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Anyone got milk. No horny.
+Maintainer: vrm0rgu3
+Author: vrm0rgu3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

@@ -1,7 +1,7 @@
 ## 🥛 milk tweak
 ---
 
-Tap on status bar — get UIAlert.
+Tap on status bar — get alert.
 
 
 To follow along, you will require the following things:
@@ -26,11 +26,11 @@ $ make do
 
 ### Uninstalling
 
-1. Remove it just from `Cydia`.
+1. Just remove it from `Cydia`.
 2. Manually via `ssh`:
 
 ```bash
-ssh youDevice
+ssh root@ip
 apt remove com.vrm0rgu3.milk
 ```
 

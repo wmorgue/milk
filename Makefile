@@ -1,4 +1,4 @@
-export ARCHS = arm64 armv7
+export ARCHS = arm64
 export SYSROOT = $(THEOS)/sdks/iPhoneOS14.4.sdk/
 
 SUBPROJECTS += Sources
